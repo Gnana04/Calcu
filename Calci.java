@@ -68,13 +68,4 @@ class Calci extends extendedCalculator{
         System.out.println("Result of cube is: " + cube_result);
     }
 
-    float square(float operand_1) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'square'");
-    }
-
-    float cube(float operand_1) {
-        // TODO Auto-generated method stub
-        throw new UnsupportedOperationException("Unimplemented method 'cube'");
-    }
 }
